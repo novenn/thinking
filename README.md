@@ -1,3 +1,4 @@
 # thinking
 记录一些自己的想法
-[重构之路上的一些想法](https://github.com/novenn/thinking/main/README.md)
+
+- [重构之路上的一些想法](https://github.com/novenn/thinking/blob/main/%E9%87%8D%E6%9E%84%E4%B9%8B%E8%B7%AF%E4%B8%8A%E7%9A%84%E4%B8%80%E7%82%B9%E6%83%B3.md)
